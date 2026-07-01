@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0265/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千手千眼觀世音菩薩大身呪本
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1062A.xml
+    old_id: T20n1062A
+hash: sha256:2054694d65e12eb012f714c16d271f0241f772ab5088dbde5d57c344849cf66b

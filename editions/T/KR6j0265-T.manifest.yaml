@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0265/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0265/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 千手千眼觀世音菩薩大身呪本
+  identifiers:
+    krp: KR6j0265
+    cbeta: T20n1062A
+    cbeta_old_id: T20n1062A
+    authorityid: CA0002565
+    json_key: T1062A
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1062A.xml
+    old_id: T20n1062A
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0265_000-T.yaml, hash: 'sha256:2054694d65e12eb012f714c16d271f0241f772ab5088dbde5d57c344849cf66b'}
+  - {seq: 1, filename: KR6j0265_001-T.yaml, hash: 'sha256:dd340fffad5645f1a91ff337a9a5ad2234ed91f37d8c77fc63439d52a0d5429d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0265_000-T.markers.yaml, hash: 'sha256:6764ae7eaa4d73123fafa282fea313c6daa9ba7481e221b412da7e06db9bd0ab'}
+  - {seq: 1, role: markers, filename: assets/KR6j0265_001-T.markers.yaml, hash: 'sha256:497bc08c03a44ff7a93f9822c8262f150e4a1172fa8676987fcf0537aa3df5be'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0265_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 762
+  label: '千手千眼觀世音菩薩大身呪本
+
+    出大悲經中卷'
+  type: juan
+  level: 1
+hash: sha256:9eee13ab003dfe0a321ce5156d859e9e57649a37ff69a9fa25c1f611607cc47b

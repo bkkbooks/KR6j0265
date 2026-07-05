@@ -139,7 +139,6 @@ markers:
   - {type: xml-element, offset: 645, content: '', id: KR6j0265_T_001-bkkxmlele92, name: note, role: close, attrs: {place: inline}}
   - {type: line-break, offset: 645, content: '', id: KR6j0265_T_001-0114a16, ed: T, 'n': 0114a16}
   - {type: xml-element, offset: 652, content: '', id: KR6j0265_T_001-bkkxmlele93, name: note, role: open, attrs: {place: inline}}
-  - {type: substitution, offset: 652, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 655, content: '', id: KR6j0265_T_001-bkkxmlele94, name: note, role: close, attrs: {place: inline}}
   - {type: line-break, offset: 664, content: '', id: KR6j0265_T_001-0114a17, ed: T, 'n': 0114a17}
   - {type: line-break, offset: 682, content: '', id: KR6j0265_T_001-0114a18, ed: T, 'n': 0114a18}
@@ -162,4 +161,4 @@ markers:
   - {type: xml-element, offset: 762, content: '', id: pT20p0113c1101_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pT20p0113c1101}}
   - {type: line-break, offset: 762, content: '', id: KR6j0265_T_001-0114a23, ed: T, 'n': 0114a23}
   back: []
-hash: sha256:2af23f3a54131c57b19108a1b81396d78ff43f93947beaba5ac53a19ad8ab2c1
+hash: sha256:54cdcc8c2a9040e06898ff71f691955a0e2157498f5b477c441dcc5789786ab7

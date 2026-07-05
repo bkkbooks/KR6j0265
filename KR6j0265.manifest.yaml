@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0265_000.yaml, hash: 'sha256:2054694d65e12eb012f714c16d271f0241f772ab5088dbde5d57c344849cf66b'}
-  - {seq: 1, filename: KR6j0265_001.yaml, hash: 'sha256:47a63b6f681821d0c95881338f81c9543dcda4213ba8fb69e1b75f3d7c06bdb9'}
+  - {seq: 1, filename: KR6j0265_001.yaml, hash: 'sha256:dd340fffad5645f1a91ff337a9a5ad2234ed91f37d8c77fc63439d52a0d5429d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0265_001.markers.yaml, hash: 'sha256:2af23f3a54131c57b19108a1b81396d78ff43f93947beaba5ac53a19ad8ab2c1'}
+  - {seq: 0, role: markers, filename: assets/KR6j0265_000.markers.yaml, hash: 'sha256:adbb916a5b0986aed393f967a6ada4e78b2aecbfc293ea1c9bd9a4054b8bcc25'}
+  - {seq: 1, role: markers, filename: assets/KR6j0265_001.markers.yaml, hash: 'sha256:54cdcc8c2a9040e06898ff71f691955a0e2157498f5b477c441dcc5789786ab7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,9 +34,6 @@ table_of_contents:
     出大悲經中卷'
   type: juan
   level: 1
-hash: sha256:eef9a53bd3ef1ff9ce5ec5d80da3dbe42f86a256097811b9a2dd720b99e00870
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:083e846c399fbccc19dfce23af2ee74c2e05becc8a2b6540c5d46904a824242b
 editions:
 - short: T
